@@ -5,6 +5,7 @@ body{
     font-family: 'Raleway', sans-serif;
     display: grid;
     height: 100%;
+    margin-top: 280px;
     text-align: center;
     place-items: center;
 }
